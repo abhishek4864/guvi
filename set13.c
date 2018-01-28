@@ -14,4 +14,6 @@ void main()
     else
         printf("%c is a consonant.", c);
     }
+	else
+		printf("Incorrect input");
 }
