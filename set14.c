@@ -6,9 +6,9 @@ void main()
     scanf("%c",&c);
 	if((c>=65 && c<=90)||(c>=65&&c<=90))
 	{
-    printf("a alphabet"\n);
+    printf("a alphabet\n");
 	}
     else
-        printf("not a alphabet"\n);
+        printf("not a alphabet\n");
    
 }
